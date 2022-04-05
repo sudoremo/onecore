@@ -1,12 +1,7 @@
 <?php
     /**
      * onecore - the single file cms
-     * (c) 2008-2010 by Remo Fritzsche
-     *
-     * Version 1.0.0, Tue Oct 12 10:13:17 CEST 2010
-     *
-     * remofritzsche.com/
-     * remofritzsche.com/projects/onecore
+     * github.com/sudoremo/onecore
     */
 
     session_start();
