@@ -6,6 +6,8 @@ a frontpage, a linklist or something like that - and you want to edit this page
 without any external editor. Then onecore is perfect for you. Onecore is HTML
 page and content in one file.
 
+Note that onecore is mostly a proof of concept and by no means secure.
+
 ## Features
 
 * Administration area
