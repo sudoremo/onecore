@@ -41,11 +41,7 @@ it as you want. Make sure that the file extension tells your webserver to
 activate PHP. Important is the write permission for PHP respective the webserver
 on this file.
 
-## The first launch
+After that, launch onecore (https://yoursite.com/onecoreFileName.extension).
 
-Launch onecore (http://yoursite.com/onecoreFileName.extension). In the further
-steps I guess that you placed your file under http://localhost/index.php.
-
-Now you see a little HTML-Page with sample content. To open the administration
-area, simply go to http://localhost/index.php?admin. I think most of the further
-steps are self-explaining.
+Now you see a HTML-Page with sample content. To open the administration
+area, simply go to https://yoursite.com/onecoreFileName.extension?admin.
