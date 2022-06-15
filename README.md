@@ -15,12 +15,7 @@ page and content in one file.
 * Editor which supports tabs
 * JavaScript preview
 
-## Licence
-
-onecore is free software but please do not deploy onecore without the copyright.
-You are not allowed to sell onecore without my written permission!
-
-## The technology & requirements
+## Technology & requirements
 
 Onecore is an HTML site containing some PHP and JavaScript which make it
 possible to edit the HTML part of the site without any additional tool.
